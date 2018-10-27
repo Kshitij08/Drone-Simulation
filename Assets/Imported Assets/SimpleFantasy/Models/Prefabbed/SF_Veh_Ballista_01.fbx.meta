@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: af500c03e96fc524cbb3d591236d0960
+timeCreated: 1473810121
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SF_Veh_Ballista_ArmL
+    100004: SF_Veh_Ballista_ArmR
+    100006: SF_Veh_Ballista_Bolt
+    100008: SF_Veh_Ballista_Handle
+    100010: SF_Veh_Ballista_WheelL
+    100012: SF_Veh_Ballista_WheelR
+    400000: //RootNode
+    400002: SF_Veh_Ballista_ArmL
+    400004: SF_Veh_Ballista_ArmR
+    400006: SF_Veh_Ballista_Bolt
+    400008: SF_Veh_Ballista_Handle
+    400010: SF_Veh_Ballista_WheelL
+    400012: SF_Veh_Ballista_WheelR
+    2300000: //RootNode
+    2300002: SF_Veh_Ballista_ArmL
+    2300004: SF_Veh_Ballista_ArmR
+    2300006: SF_Veh_Ballista_Bolt
+    2300008: SF_Veh_Ballista_Handle
+    2300010: SF_Veh_Ballista_WheelL
+    2300012: SF_Veh_Ballista_WheelR
+    3300000: //RootNode
+    3300002: SF_Veh_Ballista_ArmL
+    3300004: SF_Veh_Ballista_ArmR
+    3300006: SF_Veh_Ballista_Bolt
+    3300008: SF_Veh_Ballista_Handle
+    3300010: SF_Veh_Ballista_WheelL
+    3300012: SF_Veh_Ballista_WheelR
+    4300000: SF_Veh_Ballista_01
+    4300002: SF_Veh_Ballista_Bolt
+    4300004: SF_Veh_Ballista_ArmL
+    4300006: SF_Veh_Ballista_ArmR
+    4300008: SF_Veh_Ballista_WheelL
+    4300010: SF_Veh_Ballista_Handle
+    4300012: SF_Veh_Ballista_WheelR
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 15
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+Simple Town - Changelog
+
+Version 11.0 - UPGRADE
+
+- Additional Buildings
+- Additional Props
+- Additional Environment assets
+
+Version 10.05
+- Fixed Road white line issue
+- Added a new grass piece to match the road size
+- Fix normals on Office building
+
+Version 10.04
+Fixing issue with demo scene prefabs
+
+Version 10.03
+Fixing issue with road seems
+
+Version 10.02
+Fixing issue with demo scene prefabs
+
+Version 10.02
+Added a road corner with lines
+
+Version 10.01
+Added a road lane prefab for adding lanes to roads
+
+Thank you for purchasing Simple Town, check out our other packs
+https://www.assetstore.unity3d.com/en/#!/publisher/5217

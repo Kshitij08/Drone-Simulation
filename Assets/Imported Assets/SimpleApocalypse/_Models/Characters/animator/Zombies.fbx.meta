@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: 69a526a296b75074db3310a32ab2ba19
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body_jnt
+    100004: Foot_Left
+    100006: Foot_Left_jnt
+    100008: Foot_Left_jnt1
+    100010: Foot_Right
+    100012: Foot_Right_jnt
+    100014: Foot_Right_jnt1
+    100016: GasMask
+    100018: Hair_Bobs
+    100020: Hair_Ponytail
+    100022: Hair_Punk
+    100024: Hair_Top
+    100026: Hand_Left
+    100028: Hand_Left_jnt
+    100030: Hand_Right
+    100032: Hand_Right_jnt
+    100034: Hat_Cap
+    100036: Hat_Cap_Backwards
+    100038: Hat_FireFighter
+    100040: Hat_Helmet
+    100042: Hat_Hobo
+    100044: Hat_jnt
+    100046: Hat_Pimp
+    100048: Hat_Police
+    100050: Hat_Sheriff
+    100052: Head
+    100054: Head_jnt
+    100056: Hips_jnt
+    100058: LowerArm_Left
+    100060: LowerArm_Left_jnt
+    100062: LowerArm_Right
+    100064: LowerArm_Right_jnt
+    100066: LowerBody
+    100068: LowerLeg_Left
+    100070: LowerLeg_Left_jnt
+    100072: LowerLeg_Right
+    100074: LowerLeg_Right_jnt
+    100076: Prop_Backpack
+    100078: Prop_FireFighterPack
+    100080: RiotHelmet
+    100082: Root_jnt
+    100084: //RootNode
+    100086: Spine_jnt
+    100088: UpperArm_Left
+    100090: UpperArm_Left_jnt
+    100092: UpperArm_Right
+    100094: UpperArm_Right_jnt
+    100096: UpperLeg_Left
+    100098: UpperLeg_Left_jnt
+    100100: UpperLeg_Right
+    100102: UpperLeg_Right_jnt
+    100104: WarHelmet
+    400000: Body
+    400002: Body_jnt
+    400004: Foot_Left
+    400006: Foot_Left_jnt
+    400008: Foot_Left_jnt1
+    400010: Foot_Right
+    400012: Foot_Right_jnt
+    400014: Foot_Right_jnt1
+    400016: GasMask
+    400018: Hair_Bobs
+    400020: Hair_Ponytail
+    400022: Hair_Punk
+    400024: Hair_Top
+    400026: Hand_Left
+    400028: Hand_Left_jnt
+    400030: Hand_Right
+    400032: Hand_Right_jnt
+    400034: Hat_Cap
+    400036: Hat_Cap_Backwards
+    400038: Hat_FireFighter
+    400040: Hat_Helmet
+    400042: Hat_Hobo
+    400044: Hat_jnt
+    400046: Hat_Pimp
+    400048: Hat_Police
+    400050: Hat_Sheriff
+    400052: Head
+    400054: Head_jnt
+    400056: Hips_jnt
+    400058: LowerArm_Left
+    400060: LowerArm_Left_jnt
+    400062: LowerArm_Right
+    400064: LowerArm_Right_jnt
+    400066: LowerBody
+    400068: LowerLeg_Left
+    400070: LowerLeg_Left_jnt
+    400072: LowerLeg_Right
+    400074: LowerLeg_Right_jnt
+    400076: Prop_Backpack
+    400078: Prop_FireFighterPack
+    400080: RiotHelmet
+    400082: Root_jnt
+    400084: //RootNode
+    400086: Spine_jnt
+    400088: UpperArm_Left
+    400090: UpperArm_Left_jnt
+    400092: UpperArm_Right
+    400094: UpperArm_Right_jnt
+    400096: UpperLeg_Left
+    400098: UpperLeg_Left_jnt
+    400100: UpperLeg_Right
+    400102: UpperLeg_Right_jnt
+    400104: WarHelmet
+    2300000: Body
+    2300002: Foot_Left
+    2300004: Foot_Right
+    2300006: GasMask
+    2300008: Hair_Bobs
+    2300010: Hair_Ponytail
+    2300012: Hair_Punk
+    2300014: Hair_Top
+    2300016: Hand_Left
+    2300018: Hand_Right
+    2300020: Hat_Cap
+    2300022: Hat_Cap_Backwards
+    2300024: Hat_FireFighter
+    2300026: Hat_Helmet
+    2300028: Hat_Hobo
+    2300030: Hat_Pimp
+    2300032: Hat_Police
+    2300034: Hat_Sheriff
+    2300036: Head
+    2300038: LowerArm_Left
+    2300040: LowerArm_Right
+    2300042: LowerBody
+    2300044: LowerLeg_Left
+    2300046: LowerLeg_Right
+    2300048: Prop_Backpack
+    2300050: Prop_FireFighterPack
+    2300052: RiotHelmet
+    2300054: UpperArm_Left
+    2300056: UpperArm_Right
+    2300058: UpperLeg_Left
+    2300060: UpperLeg_Right
+    2300062: WarHelmet
+    3300000: Body
+    3300002: Foot_Left
+    3300004: Foot_Right
+    3300006: GasMask
+    3300008: Hair_Bobs
+    3300010: Hair_Ponytail
+    3300012: Hair_Punk
+    3300014: Hair_Top
+    3300016: Hand_Left
+    3300018: Hand_Right
+    3300020: Hat_Cap
+    3300022: Hat_Cap_Backwards
+    3300024: Hat_FireFighter
+    3300026: Hat_Helmet
+    3300028: Hat_Hobo
+    3300030: Hat_Pimp
+    3300032: Hat_Police
+    3300034: Hat_Sheriff
+    3300036: Head
+    3300038: LowerArm_Left
+    3300040: LowerArm_Right
+    3300042: LowerBody
+    3300044: LowerLeg_Left
+    3300046: LowerLeg_Right
+    3300048: Prop_Backpack
+    3300050: Prop_FireFighterPack
+    3300052: RiotHelmet
+    3300054: UpperArm_Left
+    3300056: UpperArm_Right
+    3300058: UpperLeg_Left
+    3300060: UpperLeg_Right
+    3300062: WarHelmet
+    4300000: Foot_Left
+    4300002: LowerLeg_Left
+    4300004: UpperLeg_Left
+    4300006: Foot_Right
+    4300008: LowerLeg_Right
+    4300010: UpperLeg_Right
+    4300012: Hat_Police
+    4300014: Hat_FireFighter
+    4300016: Hat_Cap_Backwards
+    4300018: Hat_Helmet
+    4300020: Hair_Bobs
+    4300022: Hair_Ponytail
+    4300024: Hair_Top
+    4300026: Hat_Pimp
+    4300028: Hair_Punk
+    4300030: Hat_Sheriff
+    4300032: Hat_Cap
+    4300034: GasMask
+    4300036: Hat_Hobo
+    4300038: RiotHelmet
+    4300040: WarHelmet
+    4300042: Head
+    4300044: Hand_Right
+    4300046: LowerArm_Right
+    4300048: UpperArm_Right
+    4300050: Hand_Left
+    4300052: LowerArm_Left
+    4300054: UpperArm_Left
+    4300056: Body
+    4300058: Prop_Backpack
+    4300060: Prop_FireFighterPack
+    4300062: LowerBody
+    7400000: Walk
+    7400002: Zombie_Walk
+    7400004: Zombie_Idle
+    7400006: Zombie_Eating
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Zombie_Idle
+      takeName: Take 001
+      firstFrame: 208
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Zombie_Walk
+      takeName: Take 001
+      firstFrame: 155
+      lastFrame: 205
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Zombie_Eating
+      takeName: Take 001
+      firstFrame: 263
+      lastFrame: 310
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Hips_jnt
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0152389491, y: 0, z: .00761947455}
+        length: .0190486908
+        modified: 1
+    - boneName: UpperLeg_Left_jnt
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .299617141, y: 0, z: .149808571}
+        length: .374521554
+        modified: 1
+    - boneName: UpperLeg_Right_jnt
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .299617469, y: 0, z: .149808735}
+        length: .374521971
+        modified: 1
+    - boneName: LowerLeg_Left_jnt
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .310994834, y: 0, z: .155497417}
+        length: .388743699
+        modified: 1
+    - boneName: LowerLeg_Right_jnt
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .310995072, y: 0, z: .155497536}
+        length: .388743997
+        modified: 1
+    - boneName: Foot_Left_jnt
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .122244187, y: 0, z: .0611220933}
+        length: .152805269
+        modified: 1
+    - boneName: Foot_Right_jnt
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .122243993, y: 0, z: .0611219965}
+        length: .15280503
+        modified: 1
+    - boneName: Body_jnt
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .53625989, y: 0, z: .268129945}
+        length: .67032516
+        modified: 1
+    - boneName: Spine_jnt
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .248500764, y: 0, z: .124250382}
+        length: .31062603
+        modified: 1
+    - boneName: Head_jnt
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .124250382, y: 0, z: .0621251911}
+        length: .155313015
+        modified: 1
+    - boneName: UpperArm_Left_jnt
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .376950234, y: 0, z: .188475117}
+        length: .471187949
+        modified: 1
+    - boneName: UpperArm_Right_jnt
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .376951903, y: 0, z: .188475952}
+        length: .471190035
+        modified: 1
+    - boneName: LowerArm_Left_jnt
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .352239877, y: 0, z: .176119938}
+        length: .440299988
+        modified: 1
+    - boneName: LowerArm_Right_jnt
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .352239877, y: 0, z: .176119938}
+        length: .440299988
+        modified: 1
+    - boneName: Hand_Left_jnt
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .176119938, y: 0, z: .0880599692}
+        length: .220149994
+        modified: 1
+    - boneName: Hand_Right_jnt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .176119938, y: 0, z: .0880599692}
+        length: .220149994
+        modified: 1
+    - boneName: Hat_jnt
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: -20, z: -10}
+        max: {x: 0, y: 20, z: 15.000001}
+        value: {x: .0799999759, y: 0, z: .0399999879}
+        length: .100000001
+        modified: 1
+    skeleton:
+    - name: SimpleZombie
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Root_jnt
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hips_jnt
+      position: {x: -0, y: 1.04498756, z: 0}
+      rotation: {x: 0, y: 0, z: .259743571, w: .965677559}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Body_jnt
+      position: {x: .00955589768, y: .0164783578, z: 0}
+      rotation: {x: 0, y: 0, z: .866503596, w: -.499170721}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Body
+      position: {x: -.48094517, y: 2.62898804e-16, z: 0}
+      rotation: {x: 0, y: 0, z: .707106769, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Prop_Backpack
+      position: {x: -.545142889, y: 2.62898804e-16, z: -.397317201}
+      rotation: {x: 0, y: 0, z: .707106769, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Prop_FireFighterPack
+      position: {x: -.545142829, y: 2.62898804e-16, z: -.397317201}
+      rotation: {x: 0, y: 0, z: .707106769, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Spine_jnt
+      position: {x: -.67032522, y: 1.48842099e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -1.66576811e-15, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head_jnt
+      position: {x: -.31062609, y: 6.89728473e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -1.55431213e-15, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hat_jnt
+      position: {x: -.542270958, y: 1.20408341e-16, z: 0}
+      rotation: {x: 3.71063588e-16, y: -1.51482803e-16, z: .707106769, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GasMask
+      position: {x: -1.90733793e-08, y: -.176423341, z: .123718031}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hair_Bobs
+      position: {x: 1.06944977e-13, y: -.0537374094, z: -.192501292}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hair_Ponytail
+      position: {x: 1.06944977e-13, y: -.464312822, z: -.407335401}
+      rotation: {x: 0, y: -0, z: -0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hair_Punk
+      position: {x: 1.06944977e-13, y: .268514097, z: .00597979547}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hair_Top
+      position: {x: 1.06944977e-13, y: .202383876, z: .00193363184}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hat_Cap
+      position: {x: 3.81470819e-08, y: .269293815, z: .13901028}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hat_Cap_Backwards
+      position: {x: -1.90733793e-08, y: .248682708, z: -.10632515}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hat_FireFighter
+      position: {x: -1.52587774e-07, y: -.0517426282, z: .0645379648}
+      rotation: {x: 0, y: -0, z: -0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hat_Helmet
+      position: {x: -1.52587774e-07, y: .229223624, z: .0645379648}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hat_Hobo
+      position: {x: 3.81470819e-08, y: .186013788, z: .00417053234}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hat_Pimp
+      position: {x: 3.81470819e-08, y: .248682708, z: .0163426008}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hat_Police
+      position: {x: 1.06944977e-13, y: .266332835, z: .0163435359}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hat_Sheriff
+      position: {x: 3.81470819e-08, y: .289340198, z: .0163426008}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RiotHelmet
+      position: {x: -1.90733793e-08, y: -.115595698, z: -.00033853529}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WarHelmet
+      position: {x: -1.90733793e-08, y: .0437458791, z: -.00033853529}
+      rotation: {x: -1.55374125e-16, y: 3.70648489e-16, z: 2.17881252e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head
+      position: {x: -.35179022, y: -4.49374611e-15, z: .00163358683}
+      rotation: {x: 0, y: 0, z: .707106769, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UpperArm_Left_jnt
+      position: {x: -.219108447, y: -.565231979, z: 0}
+      rotation: {x: 0, y: -0, z: -.707106769, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerArm_Left_jnt
+      position: {x: .471188009, y: -2.84217088e-16, z: 5.77040997e-17}
+      rotation: {x: 0, y: -0, z: -3.33066886e-15, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hand_Left_jnt
+      position: {x: .440299988, y: 0, z: 5.39208998e-17}
+      rotation: {x: 6.1232336e-17, y: .99999994, z: -6.1232336e-17, w: -2.28167827e-15}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hand_Left
+      position: {x: -.103889741, y: 6.85425334e-07, z: 7.15680838e-15}
+      rotation: {x: .99999994, y: 1.73444578e-13, z: 2.30420046e-15, w: 7.27366091e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerArm_Left
+      position: {x: .216302887, y: 2.6690675e-06, z: -5.77040997e-17}
+      rotation: {x: 0, y: 0, z: .99999994, w: -3.16985669e-15}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UpperArm_Left
+      position: {x: .189836815, y: 2.5927734e-06, z: 0}
+      rotation: {x: 0, y: 0, z: .99999994, w: -1.17145525e-15}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UpperArm_Right_jnt
+      position: {x: -.219108447, y: .565231979, z: 0}
+      rotation: {x: .707106769, y: -.707106769, z: 8.65956127e-17, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerArm_Right_jnt
+      position: {x: -.471189976, y: 5.68434176e-16, z: -5.77041328e-17}
+      rotation: {x: -6.62765645e-19, y: -3.58692171e-21, z: 6.13224696e-16, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hand_Right_jnt
+      position: {x: -.440299988, y: -8.52651264e-16, z: -5.39211976e-17}
+      rotation: {x: 6.1232336e-17, y: .99999994, z: -6.1232336e-17, w: 1.83758906e-15}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hand_Right
+      position: {x: .103895061, y: 1.83227564e-06, z: 8.29886798e-15}
+      rotation: {x: -7.30184964e-16, y: 1.88181816e-15, z: -1.37473352e-13, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerArm_Right
+      position: {x: -.216300428, y: 1.37451173e-06, z: -2.81995996e-17}
+      rotation: {x: 3.8359903e-15, y: .99999994, z: -6.1232336e-17, w: -6.1232336e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UpperArm_Right
+      position: {x: -.189833388, y: 1.29821785e-06, z: 1.90734859e-08}
+      rotation: {x: 2.94781209e-15, y: .99999994, z: -6.1232336e-17, w: -6.1232336e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerBody
+      position: {x: -.017870523, y: -.030816244, z: 0}
+      rotation: {x: 0, y: -0, z: -.259743571, w: .965677559}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UpperLeg_Left_jnt
+      position: {x: -.256982446, y: -1.42108544e-16, z: 0}
+      rotation: {x: -.000137111027, y: -8.42471636e-05, z: .499174595, w: .866501331}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLeg_Left_jnt
+      position: {x: -.374521643, y: -3.5527136e-17, z: -2.71050537e-22}
+      rotation: {x: -.707590163, y: 6.44689135e-06, z: -6.14591181e-06, w: .706622958}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Foot_Left_jnt
+      position: {x: -.388743728, y: 1.22525682e-17, z: 7.34260656e-12}
+      rotation: {x: .500422239, y: .50042218, z: -.499573052, w: .499581754}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Foot_Left
+      position: {x: 7.68661412e-05, y: -.0489151739, z: .0504849851}
+      rotation: {x: -1.65561047e-16, y: -2.25051726e-12, z: -1.91522891e-11, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Foot_Left_jnt1
+      position: {x: -6.72414988e-12, y: -.149733499, z: .219697013}
+      rotation: {x: 0, y: -0, z: -0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLeg_Left
+      position: {x: -.163028598, y: -3.44381715e-06, z: -7.68565951e-05}
+      rotation: {x: .499996275, y: .500003695, z: -.499996275, w: .500003695}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UpperLeg_Left
+      position: {x: -.180784166, y: -1.12056807e-06, z: 4.85273176e-07}
+      rotation: {x: -4.02320296e-07, y: 1.49575089e-06, z: -.707106769, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UpperLeg_Right_jnt
+      position: {x: .127638385, y: -.223043367, z: 0}
+      rotation: {x: -.499185652, y: .86646986, z: .00572498748, w: -.00328412978}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLeg_Right_jnt
+      position: {x: .374522001, y: 2.48689959e-16, z: -1.09874122e-12}
+      rotation: {x: -.704109907, y: -3.0960502e-05, z: 5.18196248e-05, w: .710090935}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Foot_Right_jnt
+      position: {x: .388743997, y: 8.19713481e-12, z: -3.69072238e-11}
+      rotation: {x: .501171112, y: .501196861, z: -.498828948, w: .498797357}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Foot_Right
+      position: {x: -7.60028925e-05, y: .048915077, z: -.0504854806}
+      rotation: {x: .99999994, y: -7.57875776e-11, z: 2.25023906e-12, w: -6.1232164e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Foot_Right_jnt1
+      position: {x: -3.4907971e-06, y: .149733305, z: -.219697013}
+      rotation: {x: 0, y: -0, z: -0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLeg_Right
+      position: {x: .163028672, y: 3.42474482e-06, z: 7.6961267e-05}
+      rotation: {x: .500003695, y: -.499996275, z: -.500003695, w: -.499996275}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UpperLeg_Right
+      position: {x: .180776909, y: 7.43709506e-07, z: -4.852497e-07}
+      rotation: {x: .707106769, y: -.707106769, z: -3.69707345e-06, w: -1.79900235e-06}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

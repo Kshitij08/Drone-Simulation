@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 344a3d604644509489c062f11bbe78a5
+timeCreated: 1482033346
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Weapon_AssultRifle01
+    100004: Weapon_AssultRifle02
+    100006: Weapon_FlashBang
+    100008: Weapon_Grenade
+    100010: Weapon_Minigun
+    100012: Weapon_MinigunBarrel
+    100014: Weapon_Pistol
+    100016: Weapon_Rifle
+    100018: Weapon_RPG
+    100020: Weapon_Shotgun
+    100022: Weapon_SmokeBomb
+    100024: Weapon_SniperRifle
+    100026: Weapon_SubMachineGun
+    400000: //RootNode
+    400002: Weapon_AssultRifle01
+    400004: Weapon_AssultRifle02
+    400006: Weapon_FlashBang
+    400008: Weapon_Grenade
+    400010: Weapon_Minigun
+    400012: Weapon_MinigunBarrel
+    400014: Weapon_Pistol
+    400016: Weapon_Rifle
+    400018: Weapon_RPG
+    400020: Weapon_Shotgun
+    400022: Weapon_SmokeBomb
+    400024: Weapon_SniperRifle
+    400026: Weapon_SubMachineGun
+    2300000: Weapon_AssultRifle01
+    2300002: Weapon_AssultRifle02
+    2300004: Weapon_FlashBang
+    2300006: Weapon_Grenade
+    2300008: Weapon_Minigun
+    2300010: Weapon_MinigunBarrel
+    2300012: Weapon_Pistol
+    2300014: Weapon_Rifle
+    2300016: Weapon_RPG
+    2300018: Weapon_Shotgun
+    2300020: Weapon_SmokeBomb
+    2300022: Weapon_SniperRifle
+    2300024: Weapon_SubMachineGun
+    3300000: Weapon_AssultRifle01
+    3300002: Weapon_AssultRifle02
+    3300004: Weapon_FlashBang
+    3300006: Weapon_Grenade
+    3300008: Weapon_Minigun
+    3300010: Weapon_MinigunBarrel
+    3300012: Weapon_Pistol
+    3300014: Weapon_Rifle
+    3300016: Weapon_RPG
+    3300018: Weapon_Shotgun
+    3300020: Weapon_SmokeBomb
+    3300022: Weapon_SniperRifle
+    3300024: Weapon_SubMachineGun
+    4300000: Weapon_AssultRifle01
+    4300002: Weapon_AssultRifle02
+    4300004: Weapon_SubMachineGun
+    4300006: Weapon_Pistol
+    4300008: Weapon_Shotgun
+    4300010: Weapon_SniperRifle
+    4300012: Weapon_Rifle
+    4300014: Weapon_FlashBang
+    4300016: Weapon_SmokeBomb
+    4300018: Weapon_Grenade
+    4300020: Weapon_RPG
+    4300022: Weapon_Minigun
+    4300024: Weapon_MinigunBarrel
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

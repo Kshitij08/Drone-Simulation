@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: ea62c10c882460446bfde536c4ac4aa8
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Base_mesh
+    100002: Body_jnt
+    100004: EarMuffs
+    100006: FlightHostess2
+    100008: Foot_Left_jnt
+    100010: Foot_Right_jnt
+    100012: Hair_mesh
+    100014: Hand_Left_jnt
+    100016: Hand_Right_jnt
+    100018: Hat_jnt
+    100020: Head_jnt
+    100022: Hips_jnt
+    100024: LowerArm_Left_jnt
+    100026: LowerArm_Right_jnt
+    100028: LowerLeg_Left_jnt
+    100030: LowerLeg_Right_jnt
+    100032: Pilot
+    100034: Root_jnt
+    100036: //RootNode
+    100038: Spine_jnt
+    100040: Tourist_mesh
+    100042: UpperArm_Left_jnt
+    100044: UpperArm_Right_jnt
+    100046: UpperLeg_Left_jnt
+    100048: UpperLeg_Right_jnt
+    100050: Woman
+    400000: Base_mesh
+    400002: Body_jnt
+    400004: EarMuffs
+    400006: FlightHostess2
+    400008: Foot_Left_jnt
+    400010: Foot_Right_jnt
+    400012: Hair_mesh
+    400014: Hand_Left_jnt
+    400016: Hand_Right_jnt
+    400018: Hat_jnt
+    400020: Head_jnt
+    400022: Hips_jnt
+    400024: LowerArm_Left_jnt
+    400026: LowerArm_Right_jnt
+    400028: LowerLeg_Left_jnt
+    400030: LowerLeg_Right_jnt
+    400032: Pilot
+    400034: Root_jnt
+    400036: //RootNode
+    400038: Spine_jnt
+    400040: Tourist_mesh
+    400042: UpperArm_Left_jnt
+    400044: UpperArm_Right_jnt
+    400046: UpperLeg_Left_jnt
+    400048: UpperLeg_Right_jnt
+    400050: Woman
+    4300000: Base_mesh
+    4300002: Woman
+    4300004: Hair_mesh
+    4300006: EarMuffs
+    4300008: FlightHostess2
+    4300010: Pilot
+    4300012: Tourist_mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Base_mesh
+    13700002: EarMuffs
+    13700004: FlightHostess2
+    13700006: Hair_mesh
+    13700008: Pilot
+    13700010: Tourist_mesh
+    13700012: Woman
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: 07d57084337b3d34abef244a21ac2bc2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Plow_Hook_01
+    100002: Plow_Hook_02
+    100004: Plow_Hook_03
+    100006: Plow_Hook_04
+    100008: Plow_Hook_05
+    100010: Plow_Wheel_Brace
+    100012: //RootNode
+    100014: Wheel
+    400000: Plow_Hook_01
+    400002: Plow_Hook_02
+    400004: Plow_Hook_03
+    400006: Plow_Hook_04
+    400008: Plow_Hook_05
+    400010: Plow_Wheel_Brace
+    400012: //RootNode
+    400014: Wheel
+    2300000: Plow_Hook_01
+    2300002: Plow_Hook_02
+    2300004: Plow_Hook_03
+    2300006: Plow_Hook_04
+    2300008: Plow_Hook_05
+    2300010: Plow_Wheel_Brace
+    2300012: //RootNode
+    2300014: Wheel
+    3300000: Plow_Hook_01
+    3300002: Plow_Hook_02
+    3300004: Plow_Hook_03
+    3300006: Plow_Hook_04
+    3300008: Plow_Hook_05
+    3300010: Plow_Wheel_Brace
+    3300012: //RootNode
+    3300014: Wheel
+    4300000: Vehicle_Plow_01
+    4300002: Plow_Hook_01
+    4300004: Plow_Hook_02
+    4300006: Plow_Hook_03
+    4300008: Plow_Hook_04
+    4300010: Plow_Hook_05
+    4300012: Plow_Wheel_Brace
+    4300014: Wheel
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 10
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

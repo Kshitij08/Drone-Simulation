@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: 83099843be7e51d43920a71cc1a702f5
+timeCreated: 1460261559
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SA_Wep_StrikerShotgun_Acog
+    100004: SA_Wep_StrikerShotgun_Flashlight
+    100006: SA_Wep_StrikerShotgun_Laser
+    100008: SA_Wep_StrikerShotgun_Reddot
+    100010: SA_Wep_StrikerShotgun_Silencer
+    400000: //RootNode
+    400002: SA_Wep_StrikerShotgun_Acog
+    400004: SA_Wep_StrikerShotgun_Flashlight
+    400006: SA_Wep_StrikerShotgun_Laser
+    400008: SA_Wep_StrikerShotgun_Reddot
+    400010: SA_Wep_StrikerShotgun_Silencer
+    2300000: //RootNode
+    2300002: SA_Wep_StrikerShotgun_Acog
+    2300004: SA_Wep_StrikerShotgun_Flashlight
+    2300006: SA_Wep_StrikerShotgun_Laser
+    2300008: SA_Wep_StrikerShotgun_Reddot
+    2300010: SA_Wep_StrikerShotgun_Silencer
+    3300000: //RootNode
+    3300002: SA_Wep_StrikerShotgun_Acog
+    3300004: SA_Wep_StrikerShotgun_Flashlight
+    3300006: SA_Wep_StrikerShotgun_Laser
+    3300008: SA_Wep_StrikerShotgun_Reddot
+    3300010: SA_Wep_StrikerShotgun_Silencer
+    4300000: SA_Wep_StrikerShotgun
+    4300002: SA_Wep_StrikerShotgun_Reddot
+    4300004: SA_Wep_StrikerShotgun_Silencer
+    4300006: SA_Wep_StrikerShotgun_Acog
+    4300008: SA_Wep_StrikerShotgun_Laser
+    4300010: SA_Wep_StrikerShotgun_Flashlight
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 10
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

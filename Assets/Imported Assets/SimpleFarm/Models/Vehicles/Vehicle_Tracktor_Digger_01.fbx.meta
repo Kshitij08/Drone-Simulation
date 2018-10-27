@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: 809db64438fd96743826d5d5ade99fa0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Digger_Attachment_Base
+    100002: Digger_Attachment_Bucket
+    100004: Digger_Attachment_Mid
+    100006: //RootNode
+    100008: Wheel_fl
+    100010: Wheel_fr
+    100012: Wheel_rl
+    100014: Wheel_rr
+    400000: Digger_Attachment_Base
+    400002: Digger_Attachment_Bucket
+    400004: Digger_Attachment_Mid
+    400006: //RootNode
+    400008: Wheel_fl
+    400010: Wheel_fr
+    400012: Wheel_rl
+    400014: Wheel_rr
+    2300000: Digger_Attachment_Base
+    2300002: Digger_Attachment_Bucket
+    2300004: Digger_Attachment_Mid
+    2300006: //RootNode
+    2300008: Wheel_fl
+    2300010: Wheel_fr
+    2300012: Wheel_rl
+    2300014: Wheel_rr
+    3300000: Digger_Attachment_Base
+    3300002: Digger_Attachment_Bucket
+    3300004: Digger_Attachment_Mid
+    3300006: //RootNode
+    3300008: Wheel_fl
+    3300010: Wheel_fr
+    3300012: Wheel_rl
+    3300014: Wheel_rr
+    4300000: Vehicle_Tracktor_Digger_01
+    4300002: Digger_Attachment_Base
+    4300004: Digger_Attachment_Mid
+    4300006: Digger_Attachment_Bucket
+    4300008: Wheel_fl
+    4300010: Wheel_rl
+    4300012: Wheel_fr
+    4300014: Wheel_rr
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 10
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

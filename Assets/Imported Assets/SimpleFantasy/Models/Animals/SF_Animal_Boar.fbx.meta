@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 39208cf7134794046a33c7c3a9440f12
+timeCreated: 1475897765
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Pig_Rig_Head_JawEndSHJnt
+    100002: Pig_Rig_Head_JawSHJnt
+    100004: Pig_Rig_Head_TopSHJnt
+    100006: Pig_Rig_l_Clavicle_01_01SHJnt
+    100008: Pig_Rig_l_Eye_01SHJnt
+    100010: Pig_Rig_l_FrontLeg_AnkleSHJnt
+    100012: Pig_Rig_l_FrontLeg_BallSHJnt
+    100014: Pig_Rig_l_FrontLeg_HipSHJnt
+    100016: Pig_Rig_l_FrontLeg_KneeSHJnt
+    100018: Pig_Rig_l_FrontLeg_ToeSHJnt
+    100020: Pig_Rig_l_HindLeg_AnkleSHJnt
+    100022: Pig_Rig_l_HindLeg_BallSHJnt
+    100024: Pig_Rig_l_HindLeg_HipSHJnt
+    100026: Pig_Rig_l_HindLeg_KneeSHJnt
+    100028: Pig_Rig_l_HindLeg_ToeSHJnt
+    100030: Pig_Rig_Neck_01SHJnt
+    100032: Pig_Rig_Neck_02SHJnt
+    100034: Pig_Rig_Neck_TopSHJnt
+    100036: Pig_Rig_r_Clavicle_01_01SHJnt
+    100038: Pig_Rig_r_Eye_01SHJnt
+    100040: Pig_Rig_r_FrontLeg_AnkleSHJnt
+    100042: Pig_Rig_r_FrontLeg_BallSHJnt
+    100044: Pig_Rig_r_FrontLeg_HipSHJnt
+    100046: Pig_Rig_r_FrontLeg_KneeSHJnt
+    100048: Pig_Rig_r_FrontLeg_ToeSHJnt
+    100050: Pig_Rig_r_HindLeg_AnkleSHJnt
+    100052: Pig_Rig_r_HindLeg_BallSHJnt
+    100054: Pig_Rig_r_HindLeg_HipSHJnt
+    100056: Pig_Rig_r_HindLeg_KneeSHJnt
+    100058: Pig_Rig_r_HindLeg_ToeSHJnt
+    100060: Pig_Rig_ROOTSHJnt
+    100062: Pig_Rig_SHJntGrp
+    100064: Pig_Rig_Spine_01SHJnt
+    100066: Pig_Rig_Spine_02SHJnt
+    100068: Pig_Rig_Spine_TopSHJnt
+    100070: Pig_Rig_Tail_01_01SHJnt
+    100072: Pig_Rig_Tail_01_02SHJnt
+    100074: SF_Animal_Boar
+    100076: //RootNode
+    100078: Boar
+    400000: Pig_Rig_Head_JawEndSHJnt
+    400002: Pig_Rig_Head_JawSHJnt
+    400004: Pig_Rig_Head_TopSHJnt
+    400006: Pig_Rig_l_Clavicle_01_01SHJnt
+    400008: Pig_Rig_l_Eye_01SHJnt
+    400010: Pig_Rig_l_FrontLeg_AnkleSHJnt
+    400012: Pig_Rig_l_FrontLeg_BallSHJnt
+    400014: Pig_Rig_l_FrontLeg_HipSHJnt
+    400016: Pig_Rig_l_FrontLeg_KneeSHJnt
+    400018: Pig_Rig_l_FrontLeg_ToeSHJnt
+    400020: Pig_Rig_l_HindLeg_AnkleSHJnt
+    400022: Pig_Rig_l_HindLeg_BallSHJnt
+    400024: Pig_Rig_l_HindLeg_HipSHJnt
+    400026: Pig_Rig_l_HindLeg_KneeSHJnt
+    400028: Pig_Rig_l_HindLeg_ToeSHJnt
+    400030: Pig_Rig_Neck_01SHJnt
+    400032: Pig_Rig_Neck_02SHJnt
+    400034: Pig_Rig_Neck_TopSHJnt
+    400036: Pig_Rig_r_Clavicle_01_01SHJnt
+    400038: Pig_Rig_r_Eye_01SHJnt
+    400040: Pig_Rig_r_FrontLeg_AnkleSHJnt
+    400042: Pig_Rig_r_FrontLeg_BallSHJnt
+    400044: Pig_Rig_r_FrontLeg_HipSHJnt
+    400046: Pig_Rig_r_FrontLeg_KneeSHJnt
+    400048: Pig_Rig_r_FrontLeg_ToeSHJnt
+    400050: Pig_Rig_r_HindLeg_AnkleSHJnt
+    400052: Pig_Rig_r_HindLeg_BallSHJnt
+    400054: Pig_Rig_r_HindLeg_HipSHJnt
+    400056: Pig_Rig_r_HindLeg_KneeSHJnt
+    400058: Pig_Rig_r_HindLeg_ToeSHJnt
+    400060: Pig_Rig_ROOTSHJnt
+    400062: Pig_Rig_SHJntGrp
+    400064: Pig_Rig_Spine_01SHJnt
+    400066: Pig_Rig_Spine_02SHJnt
+    400068: Pig_Rig_Spine_TopSHJnt
+    400070: Pig_Rig_Tail_01_01SHJnt
+    400072: Pig_Rig_Tail_01_02SHJnt
+    400074: SF_Animal_Boar
+    400076: //RootNode
+    400078: Boar
+    4300000: SF_Animal_Boar
+    4300002: Boar
+    7400000: Boar_Walk
+    7400002: Boar_Run
+    7400004: Boar_Idle_01
+    7400006: Boar_Idle_02
+    7400008: Boar_Eat
+    9500000: //RootNode
+    13700000: SF_Animal_Boar
+    13700002: Boar
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Boar_Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Pig_Rig_SHJntGrp
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt/Pig_Rig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt/Pig_Rig_l_HindLeg_BallSHJnt/Pig_Rig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt/Pig_Rig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt/Pig_Rig_r_HindLeg_BallSHJnt/Pig_Rig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt/Pig_Rig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt/Pig_Rig_l_FrontLeg_BallSHJnt/Pig_Rig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_JawSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_JawSHJnt/Pig_Rig_Head_JawEndSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt/Pig_Rig_l_Eye_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt/Pig_Rig_r_Eye_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt/Pig_Rig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt/Pig_Rig_r_FrontLeg_BallSHJnt/Pig_Rig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Tail_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Tail_01_01SHJnt/Pig_Rig_Tail_01_02SHJnt
+        weight: 1
+      - path: SF_Animal_Boar
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Boar_Run
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Pig_Rig_SHJntGrp
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt/Pig_Rig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt/Pig_Rig_l_HindLeg_BallSHJnt/Pig_Rig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt/Pig_Rig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt/Pig_Rig_r_HindLeg_BallSHJnt/Pig_Rig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt/Pig_Rig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt/Pig_Rig_l_FrontLeg_BallSHJnt/Pig_Rig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_JawSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_JawSHJnt/Pig_Rig_Head_JawEndSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt/Pig_Rig_l_Eye_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt/Pig_Rig_r_Eye_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt/Pig_Rig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt/Pig_Rig_r_FrontLeg_BallSHJnt/Pig_Rig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Tail_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Tail_01_01SHJnt/Pig_Rig_Tail_01_02SHJnt
+        weight: 1
+      - path: SF_Animal_Boar
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Boar_Idle_01
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Pig_Rig_SHJntGrp
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt/Pig_Rig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt/Pig_Rig_l_HindLeg_BallSHJnt/Pig_Rig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt/Pig_Rig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt/Pig_Rig_r_HindLeg_BallSHJnt/Pig_Rig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt/Pig_Rig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt/Pig_Rig_l_FrontLeg_BallSHJnt/Pig_Rig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_JawSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_JawSHJnt/Pig_Rig_Head_JawEndSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt/Pig_Rig_l_Eye_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt/Pig_Rig_r_Eye_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt/Pig_Rig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt/Pig_Rig_r_FrontLeg_BallSHJnt/Pig_Rig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Tail_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Tail_01_01SHJnt/Pig_Rig_Tail_01_02SHJnt
+        weight: 1
+      - path: SF_Animal_Boar
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Boar_Eat
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Pig_Rig_SHJntGrp
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt/Pig_Rig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_l_HindLeg_HipSHJnt/Pig_Rig_l_HindLeg_KneeSHJnt/Pig_Rig_l_HindLeg_AnkleSHJnt/Pig_Rig_l_HindLeg_BallSHJnt/Pig_Rig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt/Pig_Rig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_r_HindLeg_HipSHJnt/Pig_Rig_r_HindLeg_KneeSHJnt/Pig_Rig_r_HindLeg_AnkleSHJnt/Pig_Rig_r_HindLeg_BallSHJnt/Pig_Rig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt/Pig_Rig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_l_Clavicle_01_01SHJnt/Pig_Rig_l_FrontLeg_HipSHJnt/Pig_Rig_l_FrontLeg_KneeSHJnt/Pig_Rig_l_FrontLeg_AnkleSHJnt/Pig_Rig_l_FrontLeg_BallSHJnt/Pig_Rig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_JawSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_JawSHJnt/Pig_Rig_Head_JawEndSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt/Pig_Rig_l_Eye_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_Neck_01SHJnt/Pig_Rig_Neck_02SHJnt/Pig_Rig_Neck_TopSHJnt/Pig_Rig_Head_TopSHJnt/Pig_Rig_r_Eye_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt/Pig_Rig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Spine_01SHJnt/Pig_Rig_Spine_02SHJnt/Pig_Rig_Spine_TopSHJnt/Pig_Rig_r_Clavicle_01_01SHJnt/Pig_Rig_r_FrontLeg_HipSHJnt/Pig_Rig_r_FrontLeg_KneeSHJnt/Pig_Rig_r_FrontLeg_AnkleSHJnt/Pig_Rig_r_FrontLeg_BallSHJnt/Pig_Rig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Tail_01_01SHJnt
+        weight: 1
+      - path: Pig_Rig_SHJntGrp/Pig_Rig_ROOTSHJnt/Pig_Rig_Tail_01_01SHJnt/Pig_Rig_Tail_01_02SHJnt
+        weight: 1
+      - path: SF_Animal_Boar
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Pig_Rig_SHJntGrp
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

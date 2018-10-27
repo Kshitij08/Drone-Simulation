@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 64bf9c4f0d687dc4f8e11295e1f05ee7
+timeCreated: 1475901136
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ElfStag1
+    100002: ElfStagSaddle1
+    100004: Horse_Rig_Head_JawEndSHJnt
+    100006: Horse_Rig_Head_JawSHJnt
+    100008: Horse_Rig_Head_TopSHJnt
+    100010: Horse_Rig_l_Clavicle_01_01SHJnt
+    100012: Horse_Rig_l_Eye_01SHJnt
+    100014: Horse_Rig_l_FrontLeg_AnkleSHJnt
+    100016: Horse_Rig_l_FrontLeg_BallSHJnt
+    100018: Horse_Rig_l_FrontLeg_HipSHJnt
+    100020: Horse_Rig_l_FrontLeg_Knee1SHJnt
+    100022: Horse_Rig_l_FrontLeg_Knee2SHJnt
+    100024: Horse_Rig_l_FrontLeg_ToeSHJnt
+    100026: Horse_Rig_l_HindLeg_AnkleSHJnt
+    100028: Horse_Rig_l_HindLeg_BallSHJnt
+    100030: Horse_Rig_l_HindLeg_HipSHJnt
+    100032: Horse_Rig_l_HindLeg_Knee1SHJnt
+    100034: Horse_Rig_l_HindLeg_Knee2SHJnt
+    100036: Horse_Rig_l_HindLeg_ToeSHJnt
+    100038: Horse_Rig_Neck_01SHJnt
+    100040: Horse_Rig_Neck_02SHJnt
+    100042: Horse_Rig_Neck_03SHJnt
+    100044: Horse_Rig_Neck_TopSHJnt
+    100046: Horse_Rig_r_Clavicle_01_01SHJnt
+    100048: Horse_Rig_r_Eye_01SHJnt
+    100050: Horse_Rig_r_FrontLeg_AnkleSHJnt
+    100052: Horse_Rig_r_FrontLeg_BallSHJnt
+    100054: Horse_Rig_r_FrontLeg_HipSHJnt
+    100056: Horse_Rig_r_FrontLeg_Knee1SHJnt
+    100058: Horse_Rig_r_FrontLeg_Knee2SHJnt
+    100060: Horse_Rig_r_FrontLeg_ToeSHJnt
+    100062: Horse_Rig_r_HindLeg_AnkleSHJnt
+    100064: Horse_Rig_r_HindLeg_BallSHJnt
+    100066: Horse_Rig_r_HindLeg_HipSHJnt
+    100068: Horse_Rig_r_HindLeg_Knee1SHJnt
+    100070: Horse_Rig_r_HindLeg_Knee2SHJnt
+    100072: Horse_Rig_r_HindLeg_ToeSHJnt
+    100074: Horse_Rig_ROOTSHJnt
+    100076: Horse_Rig_SHJntGrp
+    100078: Horse_Rig_Spine_01SHJnt
+    100080: Horse_Rig_Spine_02SHJnt
+    100082: Horse_Rig_Spine_TopSHJnt
+    100084: Horse_Rig_Tail_01SHJnt
+    100086: Horse_Rig_Tail_02SHJnt
+    100088: Horse_Rig_Tail_TopSHJnt
+    100090: //RootNode
+    100092: Horse_Human_01
+    100094: Horse_Undead_01
+    100096: Stag_Elf_01
+    400000: ElfStag1
+    400002: ElfStagSaddle1
+    400004: Horse_Rig_Head_JawEndSHJnt
+    400006: Horse_Rig_Head_JawSHJnt
+    400008: Horse_Rig_Head_TopSHJnt
+    400010: Horse_Rig_l_Clavicle_01_01SHJnt
+    400012: Horse_Rig_l_Eye_01SHJnt
+    400014: Horse_Rig_l_FrontLeg_AnkleSHJnt
+    400016: Horse_Rig_l_FrontLeg_BallSHJnt
+    400018: Horse_Rig_l_FrontLeg_HipSHJnt
+    400020: Horse_Rig_l_FrontLeg_Knee1SHJnt
+    400022: Horse_Rig_l_FrontLeg_Knee2SHJnt
+    400024: Horse_Rig_l_FrontLeg_ToeSHJnt
+    400026: Horse_Rig_l_HindLeg_AnkleSHJnt
+    400028: Horse_Rig_l_HindLeg_BallSHJnt
+    400030: Horse_Rig_l_HindLeg_HipSHJnt
+    400032: Horse_Rig_l_HindLeg_Knee1SHJnt
+    400034: Horse_Rig_l_HindLeg_Knee2SHJnt
+    400036: Horse_Rig_l_HindLeg_ToeSHJnt
+    400038: Horse_Rig_Neck_01SHJnt
+    400040: Horse_Rig_Neck_02SHJnt
+    400042: Horse_Rig_Neck_03SHJnt
+    400044: Horse_Rig_Neck_TopSHJnt
+    400046: Horse_Rig_r_Clavicle_01_01SHJnt
+    400048: Horse_Rig_r_Eye_01SHJnt
+    400050: Horse_Rig_r_FrontLeg_AnkleSHJnt
+    400052: Horse_Rig_r_FrontLeg_BallSHJnt
+    400054: Horse_Rig_r_FrontLeg_HipSHJnt
+    400056: Horse_Rig_r_FrontLeg_Knee1SHJnt
+    400058: Horse_Rig_r_FrontLeg_Knee2SHJnt
+    400060: Horse_Rig_r_FrontLeg_ToeSHJnt
+    400062: Horse_Rig_r_HindLeg_AnkleSHJnt
+    400064: Horse_Rig_r_HindLeg_BallSHJnt
+    400066: Horse_Rig_r_HindLeg_HipSHJnt
+    400068: Horse_Rig_r_HindLeg_Knee1SHJnt
+    400070: Horse_Rig_r_HindLeg_Knee2SHJnt
+    400072: Horse_Rig_r_HindLeg_ToeSHJnt
+    400074: Horse_Rig_ROOTSHJnt
+    400076: Horse_Rig_SHJntGrp
+    400078: Horse_Rig_Spine_01SHJnt
+    400080: Horse_Rig_Spine_02SHJnt
+    400082: Horse_Rig_Spine_TopSHJnt
+    400084: Horse_Rig_Tail_01SHJnt
+    400086: Horse_Rig_Tail_02SHJnt
+    400088: Horse_Rig_Tail_TopSHJnt
+    400090: //RootNode
+    400092: Horse_Human_01
+    400094: Horse_Undead_01
+    400096: Stag_Elf_01
+    4300000: ElfStag1
+    4300002: ElfStagSaddle1
+    4300004: Horse_Undead_01
+    4300006: Horse_Human_01
+    4300008: Stag_Elf_01
+    7400000: Stag_Walk
+    7400002: Stag_Run
+    7400004: Stag_Idle
+    7400006: Stag_Eat
+    9500000: //RootNode
+    13700000: ElfStag1
+    13700002: ElfStagSaddle1
+    13700004: Horse_Human_01
+    13700006: Horse_Undead_01
+    13700008: Stag_Elf_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stag_Walk
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Horse_Human_01
+        weight: 1
+      - path: Horse_Rig_SHJntGrp
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt/Horse_Rig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt/Horse_Rig_l_HindLeg_BallSHJnt/Horse_Rig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt/Horse_Rig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt/Horse_Rig_r_HindLeg_BallSHJnt/Horse_Rig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt/Horse_Rig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt/Horse_Rig_l_FrontLeg_BallSHJnt/Horse_Rig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_JawSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_JawSHJnt/Horse_Rig_Head_JawEndSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt/Horse_Rig_l_Eye_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt/Horse_Rig_r_Eye_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt/Horse_Rig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt/Horse_Rig_r_FrontLeg_BallSHJnt/Horse_Rig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt/Horse_Rig_Tail_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt/Horse_Rig_Tail_02SHJnt/Horse_Rig_Tail_TopSHJnt
+        weight: 1
+      - path: Horse_Undead_01
+        weight: 1
+      - path: Stag_Elf_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Stag_Run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Horse_Human_01
+        weight: 1
+      - path: Horse_Rig_SHJntGrp
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt/Horse_Rig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt/Horse_Rig_l_HindLeg_BallSHJnt/Horse_Rig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt/Horse_Rig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt/Horse_Rig_r_HindLeg_BallSHJnt/Horse_Rig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt/Horse_Rig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt/Horse_Rig_l_FrontLeg_BallSHJnt/Horse_Rig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_JawSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_JawSHJnt/Horse_Rig_Head_JawEndSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt/Horse_Rig_l_Eye_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt/Horse_Rig_r_Eye_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt/Horse_Rig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt/Horse_Rig_r_FrontLeg_BallSHJnt/Horse_Rig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt/Horse_Rig_Tail_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt/Horse_Rig_Tail_02SHJnt/Horse_Rig_Tail_TopSHJnt
+        weight: 1
+      - path: Horse_Undead_01
+        weight: 1
+      - path: Stag_Elf_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Stag_Idle
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 264
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Horse_Human_01
+        weight: 1
+      - path: Horse_Rig_SHJntGrp
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt/Horse_Rig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt/Horse_Rig_l_HindLeg_BallSHJnt/Horse_Rig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt/Horse_Rig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt/Horse_Rig_r_HindLeg_BallSHJnt/Horse_Rig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt/Horse_Rig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt/Horse_Rig_l_FrontLeg_BallSHJnt/Horse_Rig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_JawSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_JawSHJnt/Horse_Rig_Head_JawEndSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt/Horse_Rig_l_Eye_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt/Horse_Rig_r_Eye_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt/Horse_Rig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt/Horse_Rig_r_FrontLeg_BallSHJnt/Horse_Rig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt/Horse_Rig_Tail_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt/Horse_Rig_Tail_02SHJnt/Horse_Rig_Tail_TopSHJnt
+        weight: 1
+      - path: Horse_Undead_01
+        weight: 1
+      - path: Stag_Elf_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Stag_Eat
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Horse_Human_01
+        weight: 1
+      - path: Horse_Rig_SHJntGrp
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt/Horse_Rig_l_HindLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_l_HindLeg_HipSHJnt/Horse_Rig_l_HindLeg_Knee1SHJnt/Horse_Rig_l_HindLeg_Knee2SHJnt/Horse_Rig_l_HindLeg_AnkleSHJnt/Horse_Rig_l_HindLeg_BallSHJnt/Horse_Rig_l_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt/Horse_Rig_r_HindLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_r_HindLeg_HipSHJnt/Horse_Rig_r_HindLeg_Knee1SHJnt/Horse_Rig_r_HindLeg_Knee2SHJnt/Horse_Rig_r_HindLeg_AnkleSHJnt/Horse_Rig_r_HindLeg_BallSHJnt/Horse_Rig_r_HindLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt/Horse_Rig_l_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_l_Clavicle_01_01SHJnt/Horse_Rig_l_FrontLeg_HipSHJnt/Horse_Rig_l_FrontLeg_Knee1SHJnt/Horse_Rig_l_FrontLeg_Knee2SHJnt/Horse_Rig_l_FrontLeg_AnkleSHJnt/Horse_Rig_l_FrontLeg_BallSHJnt/Horse_Rig_l_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_JawSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_JawSHJnt/Horse_Rig_Head_JawEndSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt/Horse_Rig_l_Eye_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_Neck_01SHJnt/Horse_Rig_Neck_02SHJnt/Horse_Rig_Neck_03SHJnt/Horse_Rig_Neck_TopSHJnt/Horse_Rig_Head_TopSHJnt/Horse_Rig_r_Eye_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt/Horse_Rig_r_FrontLeg_BallSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Spine_01SHJnt/Horse_Rig_Spine_02SHJnt/Horse_Rig_Spine_TopSHJnt/Horse_Rig_r_Clavicle_01_01SHJnt/Horse_Rig_r_FrontLeg_HipSHJnt/Horse_Rig_r_FrontLeg_Knee1SHJnt/Horse_Rig_r_FrontLeg_Knee2SHJnt/Horse_Rig_r_FrontLeg_AnkleSHJnt/Horse_Rig_r_FrontLeg_BallSHJnt/Horse_Rig_r_FrontLeg_ToeSHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt/Horse_Rig_Tail_02SHJnt
+        weight: 1
+      - path: Horse_Rig_SHJntGrp/Horse_Rig_ROOTSHJnt/Horse_Rig_Tail_01SHJnt/Horse_Rig_Tail_02SHJnt/Horse_Rig_Tail_TopSHJnt
+        weight: 1
+      - path: Horse_Undead_01
+        weight: 1
+      - path: Stag_Elf_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

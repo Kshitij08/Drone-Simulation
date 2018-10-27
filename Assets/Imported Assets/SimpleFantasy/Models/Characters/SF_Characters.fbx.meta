@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: 34d530461bec694428ff689cbae8692d
+timeCreated: 1476494540
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm_Left_jnt
+    100002: Arm_Right_jnt
+    100004: Chest_jnt
+    100006: Foot_Left_jnt
+    100008: Foot_Right_jnt
+    100010: Forearm_Left_jnt
+    100012: Forearm_Right_jnt
+    100014: Hand_Left_jnt
+    100016: Hand_Right_jnt
+    100018: Head_jnt
+    100020: Hips_jnt
+    100022: LowerLeg_Left_jnt
+    100024: LowerLeg_Right_jnt
+    100026: Neck_jnt
+    100028: SF_Character_Bard
+    100030: SF_Character_Bartender
+    100032: SF_Character_Doctor
+    100034: SF_Character_Elf
+    100036: SF_Character_Elf_Assassin
+    100038: SF_Character_Elf_Female
+    100040: SF_Character_Elf_King
+    100042: SF_Character_Elf_Knight
+    100044: SF_Character_Executioner
+    100046: SF_Character_Goblin_01
+    100048: SF_Character_GoblinFemale
+    100050: SF_Character_GoblinKing
+    100052: SF_Character_GoblinWarrior
+    100054: SF_Character_GoblinWitchDoctor
+    100056: SF_Character_Jester
+    100058: SF_Character_King
+    100060: SF_Character_Knight_01
+    100062: SF_Character_Knight_02
+    100064: SF_Character_Knight_03
+    100066: SF_Character_Knight_Dark
+    100068: SF_Character_Knight_Gladiator_Closed
+    100070: SF_Character_Knight_Gladiator_Open
+    100072: SF_Character_Knight_Heavy_01
+    100074: SF_Character_Knight_Heavy_02
+    100076: SF_Character_Knight_Hood
+    100078: SF_Character_Knight_ShieldMaiden
+    100080: SF_Character_Knight_Templar
+    100082: SF_Character_Knight_TinMan
+    100084: SF_Character_PeasantMan_01
+    100086: SF_Character_PeasantWoman_01
+    100088: SF_Character_Princess
+    100090: SF_Character_Undead_Footman_01
+    100092: SF_Character_Undead_Footman_02
+    100094: SF_Character_Undead_Heavy
+    100096: SF_Character_Undead_King
+    100098: SF_Character_Undead_Rogue
+    100100: SF_Character_Undead_Skeleton
+    100102: SF_Character_Wizard
+    100104: //RootNode
+    100106: SF_Characters_GoblinHunter
+    100108: Shoulder_Left_jnt
+    100110: Shoulder_Right_jnt
+    100112: Spine_jnt
+    100114: Spine_jnt 1
+    100116: Toe_Left_jnt
+    100118: Toe_Right_jnt
+    100120: UpperLeg_Left_jnt
+    100122: UpperLeg_Right_jnt
+    400000: Arm_Left_jnt
+    400002: Arm_Right_jnt
+    400004: Chest_jnt
+    400006: Foot_Left_jnt
+    400008: Foot_Right_jnt
+    400010: Forearm_Left_jnt
+    400012: Forearm_Right_jnt
+    400014: Hand_Left_jnt
+    400016: Hand_Right_jnt
+    400018: Head_jnt
+    400020: Hips_jnt
+    400022: LowerLeg_Left_jnt
+    400024: LowerLeg_Right_jnt
+    400026: Neck_jnt
+    400028: SF_Character_Bard
+    400030: SF_Character_Bartender
+    400032: SF_Character_Doctor
+    400034: SF_Character_Elf
+    400036: SF_Character_Elf_Assassin
+    400038: SF_Character_Elf_Female
+    400040: SF_Character_Elf_King
+    400042: SF_Character_Elf_Knight
+    400044: SF_Character_Executioner
+    400046: SF_Character_Goblin_01
+    400048: SF_Character_GoblinFemale
+    400050: SF_Character_GoblinKing
+    400052: SF_Character_GoblinWarrior
+    400054: SF_Character_GoblinWitchDoctor
+    400056: SF_Character_Jester
+    400058: SF_Character_King
+    400060: SF_Character_Knight_01
+    400062: SF_Character_Knight_02
+    400064: SF_Character_Knight_03
+    400066: SF_Character_Knight_Dark
+    400068: SF_Character_Knight_Gladiator_Closed
+    400070: SF_Character_Knight_Gladiator_Open
+    400072: SF_Character_Knight_Heavy_01
+    400074: SF_Character_Knight_Heavy_02
+    400076: SF_Character_Knight_Hood
+    400078: SF_Character_Knight_ShieldMaiden
+    400080: SF_Character_Knight_Templar
+    400082: SF_Character_Knight_TinMan
+    400084: SF_Character_PeasantMan_01
+    400086: SF_Character_PeasantWoman_01
+    400088: SF_Character_Princess
+    400090: SF_Character_Undead_Footman_01
+    400092: SF_Character_Undead_Footman_02
+    400094: SF_Character_Undead_Heavy
+    400096: SF_Character_Undead_King
+    400098: SF_Character_Undead_Rogue
+    400100: SF_Character_Undead_Skeleton
+    400102: SF_Character_Wizard
+    400104: //RootNode
+    400106: SF_Characters_GoblinHunter
+    400108: Shoulder_Left_jnt
+    400110: Shoulder_Right_jnt
+    400112: Spine_jnt
+    400114: Spine_jnt 1
+    400116: Toe_Left_jnt
+    400118: Toe_Right_jnt
+    400120: UpperLeg_Left_jnt
+    400122: UpperLeg_Right_jnt
+    4300000: SF_Character_Bartender
+    4300002: SF_Character_Jester
+    4300004: SF_Character_PeasantWoman_01
+    4300006: SF_Character_Princess
+    4300008: SF_Character_Knight_01
+    4300010: SF_Character_King
+    4300012: SF_Character_Knight_Heavy_02
+    4300014: SF_Character_Knight_Gladiator_Open
+    4300016: SF_Character_Knight_Gladiator_Closed
+    4300018: SF_Character_Bard
+    4300020: SF_Character_Knight_Heavy_01
+    4300022: SF_Character_Knight_ShieldMaiden
+    4300024: SF_Character_Knight_Hood
+    4300026: SF_Character_Knight_Dark
+    4300028: SF_Character_Knight_TinMan
+    4300030: SF_Character_Knight_Templar
+    4300032: SF_Character_Doctor
+    4300034: SF_Character_Knight_03
+    4300036: SF_Character_Executioner
+    4300038: SF_Character_Wizard
+    4300040: SF_Character_Knight_02
+    4300042: SF_Character_PeasantMan_01
+    4300044: SF_Character_GoblinFemale
+    4300046: SF_Character_GoblinWarrior
+    4300048: SF_Character_Goblin_01
+    4300050: SF_Character_GoblinWitchDoctor
+    4300052: SF_Characters_GoblinHunter
+    4300054: SF_Character_GoblinKing
+    4300056: SF_Character_Elf_Female
+    4300058: SF_Character_Elf_Assassin
+    4300060: SF_Character_Elf_King
+    4300062: SF_Character_Elf_Knight
+    4300064: SF_Character_Elf
+    4300066: SF_Character_Undead_Rogue
+    4300068: SF_Character_Undead_Footman_02
+    4300070: SF_Character_Undead_Footman_01
+    4300072: SF_Character_Undead_Skeleton
+    4300074: SF_Character_Undead_Heavy
+    4300076: SF_Character_Undead_King
+    9500000: //RootNode
+    13700000: SF_Character_Bard
+    13700002: SF_Character_Bartender
+    13700004: SF_Character_Doctor
+    13700006: SF_Character_Elf
+    13700008: SF_Character_Elf_Assassin
+    13700010: SF_Character_Elf_Female
+    13700012: SF_Character_Elf_King
+    13700014: SF_Character_Elf_Knight
+    13700016: SF_Character_Executioner
+    13700018: SF_Character_Goblin_01
+    13700020: SF_Character_GoblinFemale
+    13700022: SF_Character_GoblinKing
+    13700024: SF_Character_GoblinWarrior
+    13700026: SF_Character_GoblinWitchDoctor
+    13700028: SF_Character_Jester
+    13700030: SF_Character_King
+    13700032: SF_Character_Knight_01
+    13700034: SF_Character_Knight_02
+    13700036: SF_Character_Knight_03
+    13700038: SF_Character_Knight_Dark
+    13700040: SF_Character_Knight_Gladiator_Closed
+    13700042: SF_Character_Knight_Gladiator_Open
+    13700044: SF_Character_Knight_Heavy_01
+    13700046: SF_Character_Knight_Heavy_02
+    13700048: SF_Character_Knight_Hood
+    13700050: SF_Character_Knight_ShieldMaiden
+    13700052: SF_Character_Knight_Templar
+    13700054: SF_Character_Knight_TinMan
+    13700056: SF_Character_PeasantMan_01
+    13700058: SF_Character_PeasantWoman_01
+    13700060: SF_Character_Princess
+    13700062: SF_Character_Undead_Footman_01
+    13700064: SF_Character_Undead_Footman_02
+    13700066: SF_Character_Undead_Heavy
+    13700068: SF_Character_Undead_King
+    13700070: SF_Character_Undead_Rogue
+    13700072: SF_Character_Undead_Skeleton
+    13700074: SF_Character_Wizard
+    13700076: SF_Characters_GoblinHunter
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 10
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Hips_jnt
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg_Left_jnt
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg_Right_jnt
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg_Left_jnt
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg_Right_jnt
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_Left_jnt
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_Right_jnt
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine_jnt 1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest_jnt
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head_jnt
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm_Left_jnt
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Arm_Right_jnt
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forearm_Left_jnt
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forearm_Right_jnt
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_Left_jnt
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_Right_jnt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toe_Left_jnt
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toe_Right_jnt
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_Left_jnt
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_Right_jnt
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck_jnt
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SF_Characters(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Bard
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Bartender
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Doctor
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Elf
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Elf_Assassin
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Elf_Female
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Elf_King
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Elf_Knight
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Executioner
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Goblin_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_GoblinFemale
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_GoblinKing
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_GoblinWarrior
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_GoblinWitchDoctor
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Jester
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_King
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_01
+      position: {x: -1.75476066e-06, y: -.00566314673, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_02
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_03
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_Dark
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_Gladiator_Closed
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_Gladiator_Open
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_Heavy_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_Heavy_02
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_Hood
+      position: {x: 2.13623048e-06, y: 0, z: .0541374199}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_ShieldMaiden
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_Templar
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Knight_TinMan
+      position: {x: -5.68434176e-16, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_PeasantMan_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_PeasantWoman_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Princess
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Undead_Footman_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Undead_Footman_02
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Undead_Heavy
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Undead_King
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Undead_Rogue
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Undead_Skeleton
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Character_Wizard
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SF_Characters_GoblinHunter
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hips_jnt
+      position: {x: 3.62720075e-16, y: 1.04498756, z: -6.26920848e-18}
+      rotation: {x: 0, y: 0, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UpperLeg_Left_jnt
+      position: {x: .128917083, y: -.221588001, z: -.0178638734}
+      rotation: {x: -.0116954949, y: -.000402353529, z: .999931395, w: .000461597927}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLeg_Left_jnt
+      position: {x: -.374521643, y: 1.06581408e-16, z: 0}
+      rotation: {x: -.707590222, y: 6.44689135e-06, z: -6.14591227e-06, w: .706623018}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Foot_Left_jnt
+      position: {x: -.388743728, y: 5.1625371e-17, z: 7.34249987e-12}
+      rotation: {x: .506745458, y: .494267821, z: -.505197346, w: .493643612}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Toe_Left_jnt
+      position: {x: -6.7240432e-12, y: -.149733499, z: .219697013}
+      rotation: {x: -9.91345339e-15, y: 8.40829424e-17, z: -1.07717511e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: UpperLeg_Right_jnt
+      position: {x: .128916636, y: .22158809, z: .0178638808}
+      rotation: {x: .999907792, y: .000580901396, z: -.0117083928, w: .00685811508}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerLeg_Right_jnt
+      position: {x: .374522001, y: 3.90798503e-16, z: -1.09874555e-12}
+      rotation: {x: -.704109967, y: -3.09605057e-05, z: 5.18196284e-05, w: .710090935}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Foot_Right_jnt
+      position: {x: .388743997, y: 8.19710359e-12, z: -3.69076124e-11}
+      rotation: {x: .495834202, y: .506727397, z: -.492732584, w: .50456953}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Toe_Right_jnt
+      position: {x: -3.4907971e-06, y: .149733305, z: -.219697013}
+      rotation: {x: -1.45072485e-14, y: -3.29152537e-17, z: -1.15194099e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Spine_jnt
+      position: {x: -.019048661, y: -5.15874299e-16, z: 6.26920848e-18}
+      rotation: {x: 6.93839098e-18, y: 1.16582176e-19, z: 1.05688028e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Spine_jnt 1
+      position: {x: -.336072505, y: 3.72617417e-16, z: 2.36434647e-18}
+      rotation: {x: -0, y: -0, z: -1.61025707e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Chest_jnt
+      position: {x: -.334252745, y: -1.2999511e-15, z: -2.36434647e-18}
+      rotation: {x: -0, y: -0, z: -1.66533454e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shoulder_Right_jnt
+      position: {x: -.219108447, y: .272741646, z: -.00764304027}
+      rotation: {x: -.707106829, y: .707106829, z: 4.33522844e-17, w: -4.32433282e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Arm_Right_jnt
+      position: {x: -.292490333, y: 1.70530253e-15, z: -.00764304027}
+      rotation: {x: -5.40452792e-21, y: 5.17011923e-19, z: 3.38043395e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Forearm_Right_jnt
+      position: {x: -.471189976, y: -6.25277604e-15, z: 5.13101755e-17}
+      rotation: {x: 6.11552494e-17, y: 6.13093366e-17, z: 4.71844785e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hand_Right_jnt
+      position: {x: -.440299988, y: -8.81072999e-15, z: 4.79464125e-17}
+      rotation: {x: 1.44834313e-13, y: 1, z: -1.17145535e-15, w: 1.74662937e-15}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shoulder_Left_jnt
+      position: {x: -.219108447, y: -.272741646, z: .00764304027}
+      rotation: {x: -.707106829, y: .707106829, z: 4.33522844e-17, w: -4.32433282e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Arm_Left_jnt
+      position: {x: .292490333, y: 2.2737367e-15, z: .00764304027}
+      rotation: {x: 1, y: -2.66453526e-15, z: -4.58883292e-20, w: -6.12323426e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Forearm_Left_jnt
+      position: {x: .471188009, y: -2.84217088e-16, z: 5.1165055e-17}
+      rotation: {x: 0, y: 1.54074396e-33, z: -2.3869795e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hand_Left_jnt
+      position: {x: .440299988, y: 0, z: 4.781051e-17}
+      rotation: {x: -1.76586691e-13, y: 1, z: -7.27366144e-16, w: -2.28361946e-15}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Neck_jnt
+      position: {x: -.228951886, y: 4.22168632e-16, z: 5.66728424e-19}
+      rotation: {x: -0, y: -0, z: -1.66533454e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head_jnt
+      position: {x: -.0816741735, y: -5.98022466e-16, z: -5.66728424e-19}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .541999996
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Root_jnt
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d55a3dafe23105e409ee70d6605cbd49,
+    type: 3}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

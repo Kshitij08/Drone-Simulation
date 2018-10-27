@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 16289d4d45e1d6042afd6bd7ff2a2792
+timeCreated: 1473818670
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SF_Veh_Goblin_SiegeTower_Gate
+    100004: SF_Veh_Goblin_SiegeTower_WheelBL
+    100006: SF_Veh_Goblin_SiegeTower_WheelBR
+    100008: SF_Veh_Goblin_SiegeTower_WheelFL
+    100010: SF_Veh_Goblin_SiegeTower_WheelFR
+    100012: SF_Veh_Goblin_SiegeTower_WheelML
+    100014: SF_Veh_Goblin_SiegeTower_WheelMR
+    400000: //RootNode
+    400002: SF_Veh_Goblin_SiegeTower_Gate
+    400004: SF_Veh_Goblin_SiegeTower_WheelBL
+    400006: SF_Veh_Goblin_SiegeTower_WheelBR
+    400008: SF_Veh_Goblin_SiegeTower_WheelFL
+    400010: SF_Veh_Goblin_SiegeTower_WheelFR
+    400012: SF_Veh_Goblin_SiegeTower_WheelML
+    400014: SF_Veh_Goblin_SiegeTower_WheelMR
+    2300000: //RootNode
+    2300002: SF_Veh_Goblin_SiegeTower_Gate
+    2300004: SF_Veh_Goblin_SiegeTower_WheelBL
+    2300006: SF_Veh_Goblin_SiegeTower_WheelBR
+    2300008: SF_Veh_Goblin_SiegeTower_WheelFL
+    2300010: SF_Veh_Goblin_SiegeTower_WheelFR
+    2300012: SF_Veh_Goblin_SiegeTower_WheelML
+    2300014: SF_Veh_Goblin_SiegeTower_WheelMR
+    3300000: //RootNode
+    3300002: SF_Veh_Goblin_SiegeTower_Gate
+    3300004: SF_Veh_Goblin_SiegeTower_WheelBL
+    3300006: SF_Veh_Goblin_SiegeTower_WheelBR
+    3300008: SF_Veh_Goblin_SiegeTower_WheelFL
+    3300010: SF_Veh_Goblin_SiegeTower_WheelFR
+    3300012: SF_Veh_Goblin_SiegeTower_WheelML
+    3300014: SF_Veh_Goblin_SiegeTower_WheelMR
+    4300000: SF_Veh_Goblin_SiegeTower_01
+    4300002: SF_Veh_Goblin_SiegeTower_WheelFR
+    4300004: SF_Veh_Goblin_SiegeTower_WheelFL
+    4300006: SF_Veh_Goblin_SiegeTower_WheelML
+    4300008: SF_Veh_Goblin_SiegeTower_WheelBL
+    4300010: SF_Veh_Goblin_SiegeTower_WheelMR
+    4300012: SF_Veh_Goblin_SiegeTower_WheelBR
+    4300014: SF_Veh_Goblin_SiegeTower_Gate
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 15
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
